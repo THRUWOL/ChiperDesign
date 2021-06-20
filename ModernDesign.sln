@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernDesign", "ModernDesign.csproj", "{306D4C30-7C2D-4A88-8347-CDADD54997ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306D4C30-7C2D-4A88-8347-CDADD54997ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306D4C30-7C2D-4A88-8347-CDADD54997ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306D4C30-7C2D-4A88-8347-CDADD54997ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306D4C30-7C2D-4A88-8347-CDADD54997ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8B81FB-2F29-46FC-B1BF-B2DD77E58751}
+	EndGlobalSection
+EndGlobal
