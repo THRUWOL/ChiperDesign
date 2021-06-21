@@ -15,7 +15,7 @@
             <DataTemplate DataType="{x:Type viewModel:Base64ViewModel}">
                 <view:Base64View/>
             </DataTemplate>
-
+            
             <DataTemplate DataType="{x:Type viewModel:ROTViewModel}">
                 <view:ROTView/>
             </DataTemplate>

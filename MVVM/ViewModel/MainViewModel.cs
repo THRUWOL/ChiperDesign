@@ -23,7 +23,7 @@ namespace ModernDesign.MVVM.ViewModel
         }
         public MainViewModel()
         {
-            Base64VM = new Base64ViewModel();
+            Base64VM = new Base64ViewModel(); 
             ROTVM = new ROTViewModel();
             CurrentView = Base64VM;
 
