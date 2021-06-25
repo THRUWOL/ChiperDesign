@@ -23,6 +23,8 @@ namespace ModernDesign
         public MainWindow()
         {
             InitializeComponent();
+
         }
+        private void Window_MouseLeftButtonDown(object sender, RoutedEventArgs e) => this.DragMove();
     }
 }
